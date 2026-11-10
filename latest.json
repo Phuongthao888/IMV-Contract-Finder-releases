@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "tag": "v1.0.2",
-  "url": "https://github.com/Phuongthao888/IMV-Contract-Finder-releases/releases/download/v1.0.2/IMV-Contract-Finder-Setup-1.0.2.exe",
-  "sha256": "eeaf5acad3de88d4576f5e11650605c014f5c73138d928e0ed7945a374ce69cf",
-  "notes": "- Logo mới + tên hiển thị \"Contract Finder\" cho app desktop",
-  "published_at": "2026-11-10T08:59:56Z",
-  "commit": "40b9b59bd1f4b68669d06ed4375369d71d0c67e5"
+  "version": "1.0.3",
+  "tag": "v1.0.3",
+  "url": "https://github.com/Phuongthao888/IMV-Contract-Finder-releases/releases/download/v1.0.3/IMV-Contract-Finder-Setup-1.0.3.exe",
+  "sha256": "c1cc8cc3ecc62cf9761a4fa02dab4b7395801cf12f89878948fb6b5bc08499c0",
+  "notes": "- Bộ cài báo Windows làm mới icon sau khi cài / cập nhật",
+  "published_at": "2026-11-10T09:12:13Z",
+  "commit": "fe78d05e7ec9deb667cc69fb16e29a076f02afa2"
 }

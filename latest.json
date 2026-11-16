@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "tag": "v1.0.4",
-  "url": "https://github.com/Phuongthao888/IMV-Contract-Finder-releases/releases/download/v1.0.4/IMV-Contract-Finder-Setup-1.0.4.exe",
-  "sha256": "a5c247c831233a06d7faf5dca251e253c5f155f2e82e3b5ef0a70269d47b7310",
-  "notes": "- feat: cập nhật danh sách chỉ lấy chứng từ mới\n- edit: document",
-  "published_at": "2026-11-16T04:02:50Z",
-  "commit": "febee64d21f21d386bc42b1b318ea80fbc7885cd"
+  "version": "1.0.5",
+  "tag": "v1.0.5",
+  "url": "https://github.com/Phuongthao888/IMV-Contract-Finder-releases/releases/download/v1.0.5/IMV-Contract-Finder-Setup-1.0.5.exe",
+  "sha256": "d9f5c417fb85e67dad6858c243187c6af1a809cf7829cd60d7d20c503a644605",
+  "notes": "- feat: bỏ màn hình đăng nhập ở bản desktop",
+  "published_at": "2026-11-16T04:07:14Z",
+  "commit": "5efff032d942a1ffaf2763f3c02405a57891e991"
 }

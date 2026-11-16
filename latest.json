@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "tag": "v1.0.3",
-  "url": "https://github.com/Phuongthao888/IMV-Contract-Finder-releases/releases/download/v1.0.3/IMV-Contract-Finder-Setup-1.0.3.exe",
-  "sha256": "c1cc8cc3ecc62cf9761a4fa02dab4b7395801cf12f89878948fb6b5bc08499c0",
-  "notes": "- Bộ cài báo Windows làm mới icon sau khi cài / cập nhật",
-  "published_at": "2026-11-10T09:12:13Z",
-  "commit": "fe78d05e7ec9deb667cc69fb16e29a076f02afa2"
+  "version": "1.0.4",
+  "tag": "v1.0.4",
+  "url": "https://github.com/Phuongthao888/IMV-Contract-Finder-releases/releases/download/v1.0.4/IMV-Contract-Finder-Setup-1.0.4.exe",
+  "sha256": "a5c247c831233a06d7faf5dca251e253c5f155f2e82e3b5ef0a70269d47b7310",
+  "notes": "- feat: cập nhật danh sách chỉ lấy chứng từ mới\n- edit: document",
+  "published_at": "2026-11-16T04:02:50Z",
+  "commit": "febee64d21f21d386bc42b1b318ea80fbc7885cd"
 }
